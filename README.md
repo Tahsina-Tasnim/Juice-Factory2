@@ -9,4 +9,4 @@ The user can :
 - request list of warehouses in a Factory
 - request list of warehouses with a specific fruit
 
-Program was made in Bluejay originally but can obviously run in other IDEs
+
