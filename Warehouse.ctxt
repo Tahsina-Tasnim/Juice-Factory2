@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Warehouse
+comment1.params=name\ fruit\ maxCapacity
+comment1.target=Warehouse(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ \ \ \ \ \ \ public\ void\ addFruit(String\ fruitType)\ {\r\n\ \ \ \ \ \ \ \ if\ (fruit.size()\ <\ maxCapacity)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ fruit.add(fruitType);\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Added\ "\ +\ fruitType\ +\ "\ to\ "\ +\ name);\r\n\ \ \ \ \ \ \ \ }\ else\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println(name\ +\ "\ is\ full.\ Cannot\ add\ more\ "\ +\ fruitType);\r\n\ \ \ \ \ \ \ \ }\r\n}
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getFruit()
+comment5.params=fruit
+comment5.target=void\ setFruit(java.lang.String)
+comment6.params=
+comment6.target=int\ getMaxCapacity()
+comment7.params=maxCapacity
+comment7.target=void\ setMaxCapacity(int)
+numComments=8
